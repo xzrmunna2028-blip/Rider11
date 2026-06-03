@@ -1,0 +1,6 @@
+{
+  "name": "পাইকগাছা কপিলমুনি খুলনা ঢাকা রাইড",
+  "description": "পাইকগাছা, কপিলমুনি, খুলনা ও ঢাকা রুটের সেরা রাইড শেয়ারিং অ্যাপ। কার, বাইক, সিএনজি, মাইক্রোবাস এবং পিকআপ সহ সকল ধরনের গাড়ি ভাড়ার সুবিধা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
